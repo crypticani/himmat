@@ -7,6 +7,13 @@ A CLI app for daily motivation from the book "Lose Not Your Heart" ("Haariye na 
 Currently, only Debian based Linux distros like Ubuntu, Linux Mint, Parrot, Kali Linux, etc. are supported.
 Alternatively, you can also download the tar.gz file, if you want to run it on other Linux distros like fedora, Arch, OpenSUSE, etc.
 
+## How to download
+To download .deb package, <a href="crypticani.github.io/files/himmat.deb">click here</a>.
+
+To download it via terminal, type:
+
+$ wget crypticani.github.io/files/himmat.deb
+
 ## How to install
 To install the deb file, you can either use GUI or terminal. For tar.gz, just extract the archive and run using $ ./himmat
 #### Method 1: GUI
@@ -18,17 +25,20 @@ To install the deb file, you can either use GUI or terminal. For tar.gz, just ex
 1. Open terminal
 2. Move to the folder containing deb file
 3. Enter following command:
+
   $ sudo gdebi himmat.deb
 4. Enter *y*
 
 ## How to use it
 1. Open the terminal
 2. Enter the command:
+
     $ himmat
     
 ## How to uninstall
 1. Open the terminal
 2. Enter the following command:
+
   $ sudo apt remove himmat
   
 
