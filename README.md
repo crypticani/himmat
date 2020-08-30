@@ -11,8 +11,9 @@ Alternatively, you can also download the tar.gz file, if you want to run it on o
 To download .deb package, <a href="crypticani.github.io/files/himmat.deb">click here</a>.
 
 To download it via terminal, type:
-
+```
 $ wget crypticani.github.io/files/himmat.deb
+```
 
 ## How to install
 To install the deb file, you can either use GUI or terminal. For tar.gz, just extract the archive and run using $ ./himmat
@@ -25,22 +26,24 @@ To install the deb file, you can either use GUI or terminal. For tar.gz, just ex
 1. Open terminal
 2. Move to the folder containing deb file
 3. Enter following command:
-
+```
   $ sudo gdebi himmat.deb
+  ```
 4. Enter *y*
 
 ## How to use it
 1. Open the terminal
 2. Enter the command:
-
+```
     $ himmat
+  ```
     
 ## How to uninstall
 1. Open the terminal
 2. Enter the following command:
-
+```
   $ sudo apt remove himmat
-  
+```  
 
 .
 
