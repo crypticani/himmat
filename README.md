@@ -30,7 +30,9 @@ To install the deb file, you can either use GUI or terminal. For tar.gz, just ex
   $ sudo apt remove himmat
   
 
-Copyright 2020 Aniket Kumar
+.
+
+#### Copyright 2020 Aniket Kumar
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
