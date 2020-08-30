@@ -1,5 +1,7 @@
 # himmat
-A CLI app for daily motivation from the book "Lose Not Your Heart" ("Haariye na himmat" in hindi) written by Pt. Shriram Sharma Acharya
+A CLI app for daily motivation from the book "Lose Not Your Heart" ("Haariye na himmat" in hindi) written by Pt. Shriram Sharma Acharya.
+
+<img src="/screenshots/himmat1png.png">
 
 ## Platforms supported
 Currently, only Debian based Linux distros like Ubuntu, Linux Mint, Parrot, Kali Linux, etc. are supported.
