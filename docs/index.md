@@ -6,10 +6,9 @@ Currently, only Debian based Linux distros like Ubuntu, Linux Mint, Parrot, Kali
 Alternatively, you can also download the tar.gz file, if you want to run it on other Linux distros like fedora, Arch, OpenSUSE, etc.
 
 ## How to download
-To download .deb package,
-### <a href="crypticani.github.io/files/himmat.deb">click here</a>.
+### To download .deb package, <a href="crypticani.github.io/files/himmat.deb"><b>click here</b></a>.
 
-To download it via terminal, type:
+### To download it via terminal, type:
 ```
 $ wget crypticani.github.io/files/himmat.deb
 ```
