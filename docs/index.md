@@ -1,25 +1,6 @@
- <header>
-      <div class="inner">
-        <a href="https://crypticani.github.io/himmat/">
-          <h1>himmat</h1>
-        </a>
-        <h2>A CLI app for daily motivation from the book "Lose Not Your Heart" ("Haariye na himmat" in hindi) written by Pt. Shriram Sharma Acharya</h2>
-        
-          <a href="https://github.com/crypticani/himmat" class="button"><small>View project on</small> GitHub</a>
-          <a href="https://github.com/crypticani/himmat/himmat.deb" class="button">Download<small>.deb package for Linux</small></a>
-        
-        
-      </div>
-   </header>
 
 
-
-
-# himmat
-A CLI app for daily motivation from the book "Lose Not Your Heart" ("Haariye na himmat" in hindi) written by Pt. Shriram Sharma Acharya.
-
-
-<img src="/screenshots/himmat1png.png">
+<img src="/screenshots/himmat1.png">
 
 ## Platforms supported
 Currently, only Debian based Linux distros like Ubuntu, Linux Mint, Parrot, Kali Linux, etc. are supported.
@@ -34,7 +15,8 @@ $ wget crypticani.github.io/files/himmat.deb
 ```
 
 ## How to install
-To install the deb file, you can either use GUI or terminal. For tar.gz, just extract the archive and run using $ ./himmat
+To install the deb file, you can either use GUI or terminal. For tar.gz, just extract the archive and run using ```$ ./himmat ```
+<img src="/screenshots/himmat1.png">
 #### Method 1: GUI
 1. Move to the folder where deb file is located
 2. Double click on _himmat.deb_
