@@ -1,4 +1,4 @@
-<a href="https://github.com/crypticani/himmat" class="button">Download<small>.deb for Linux</small></a>
+<a href="https://github.com/crypticani/himmat/himmat.deb" class="button"><font color="blue">Download<small>.deb for Linux</small></font></a>
 
 <img src="himmat1.png">
 
