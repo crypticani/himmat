@@ -1,6 +1,6 @@
 
 
-<img src="/screenshots/himmat1.png">
+<img src="himmat1.png">
 
 ## Platforms supported
 Currently, only Debian based Linux distros like Ubuntu, Linux Mint, Parrot, Kali Linux, etc. are supported.
@@ -16,7 +16,7 @@ $ wget crypticani.github.io/files/himmat.deb
 
 ## How to install
 To install the deb file, you can either use GUI or terminal. For tar.gz, just extract the archive and run using ```$ ./himmat ```
-<img src="/screenshots/himmat1.png">
+<img src="himmat2.png">
 #### Method 1: GUI
 1. Move to the folder where deb file is located
 2. Double click on _himmat.deb_
