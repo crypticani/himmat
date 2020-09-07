@@ -1,4 +1,3 @@
-# <a href="https://crypticani.github.io/files/himmat.deb" class="button">Download<small>.deb for Linux</small></a>
 
 <img src="himmat1.png">
 
@@ -7,7 +6,8 @@ Currently, only Debian based Linux distros like Ubuntu, Linux Mint, Parrot, Kali
 Alternatively, you can also download the tar.gz file, if you want to run it on other Linux distros like fedora, Arch, OpenSUSE, etc.
 
 ## How to download
-To download .deb package, <a href="crypticani.github.io/files/himmat.deb">click here</a>.
+To download .deb package,
+### <a href="crypticani.github.io/files/himmat.deb">click here</a>.
 
 To download it via terminal, type:
 ```
@@ -16,7 +16,9 @@ $ wget crypticani.github.io/files/himmat.deb
 
 ## How to install
 To install the deb file, you can either use GUI or terminal. For tar.gz, just extract the archive and run using ```$ ./himmat ```
+
 <img src="himmat2.png">
+
 #### Method 1: GUI
 1. Move to the folder where deb file is located
 2. Double click on _himmat.deb_
