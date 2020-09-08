@@ -1,6 +1,8 @@
 <aside>
- <font color="blue"> <a href="https://crypticani.github.io/files/himmat.deb" class="button">Download <small>    .deb for linux</small></a>     <a href="https://github.com/crypticani/himmat/releases/download/v0.2/himmat.tar.gz" class="button">Download <small>    tar.gz for linux</small></a></font>
-  </aside>
+ <font color="blue"> <a href="https://crypticani.github.io/files/himmat.deb" class="button">Download <small>    .deb for linux</small></a>   
+  <span><a href="https://github.com/crypticani/himmat/releases/download/v0.2/himmat.tar.gz" class="button">Download <small>    tar.gz for linux</small></a></font>
+  </span>
+ </aside>
   
 
 <img src="himmat1.png">
