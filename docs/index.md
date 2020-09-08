@@ -61,3 +61,7 @@ To install the deb file, you can either use GUI or terminal. For tar.gz, just ex
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   
+   <aside>
+ <font color="blue"> <a href="https://crypticani.github.io/files/himmat.deb" class="button">Download <small>    .deb for linux</small></a></font>
+  </aside>
