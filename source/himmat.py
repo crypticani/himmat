@@ -28,10 +28,10 @@ def primary():
     print("Refining oneself is the greatest service to humanity")
     print("                - Pandit Shriram Sharma Acharya")
     print()
-    f = open("/usr/bin/LNYH_head.txt")
+    f = open("LNYH_head.txt")
     head = f.readlines()
     f.close()
-    f = open("/usr/bin/LNYH.txt")
+    f = open("LNYH.txt")
     LNYH = f.readlines()
     f.close()
     d = date.today()
@@ -44,11 +44,16 @@ def primary():
     print(LNYH[tday-1])
     print()
     print()
-    print("---------------------------")
+    print("-----------------------------------------")
     print("Developed by Aniket, a student of DSVV.")
     print("My website: https://crypticani.github.io/")
     print()
+    hold = input()
 
 
 if __name__ == "__main__":
-    primary()
+    try:
+        primary()
+    except:
+        print("Please put the files LNYH.txt and LNYH_head.txt with this program.")
+        hold = input()
