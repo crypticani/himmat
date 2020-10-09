@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
+is_user_page: ["true"]
 show_downloads: ["true"]
 github:
   zip_url: https://github.com/crypticani/himmat/releases/download/v0.2/himmat.zip
