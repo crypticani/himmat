@@ -1,5 +1,5 @@
 <aside>
- <font color="blue"> <a href="https://crypticani.github.io/files/himmat.deb" class="button"><small>Download</small> .deb file <small>    for Linux</small></a>   
+ <font color="blue"> <a href="https://github.com/crypticani/himmat/raw/master/himmat.deb" class="button"><small>Download</small> .deb file <small>    for Linux</small></a>   
   </font>
  </aside>
   
@@ -19,7 +19,7 @@ Linux and Windows
 ### For debian based distros
 #### Via terminal:
 ```
-$ wget crypticani.github.io/files/himmat.deb
+$ wget https://github.com/crypticani/himmat/raw/master/himmat.deb
 $ sudo gdebi himmat.deb
 ```
 #### Via GUI:
